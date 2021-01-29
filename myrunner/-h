@@ -1,0 +1,32 @@
+Description of my game : 
+
+The goal of this game is to jump over different obstacles without touching them, otherwise it is lost.
+There is nothing else to do, so have fun and try to go as far as you can.
+
+USAGE
+    ./my_runner map.txt
+
+OPTIONS
+
+-h                      print the usage and quit.
+
+USER INTERACTIONS
+
+SPACE_KEY               jump.
+
+____▒▒▒▒▒
+—-▒▒▒▒▒▒▒▒▒
+—–▓▓▓░░▓░
+—▓░▓░░░▓░░░
+—▓░▓▓░░░▓░░░
+—▓▓░░░░▓▓▓▓
+——░░░░░░░░
+—-▓▓▒▓▓▓▒▓▓
+–▓▓▓▒▓▓▓▒▓▓▓
+▓▓▓▓▒▒▒▒▒▓▓▓▓
+░░▓▒░▒▒▒░▒▓░░
+░░░▒▒▒▒▒▒▒░░░
+░░▒▒▒▒▒▒▒▒▒░░
+—-▒▒▒ ——▒▒▒
+–▓▓▓———-▓▓▓
+▓▓▓▓———-▓▓▓▓
